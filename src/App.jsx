@@ -1,5 +1,5 @@
 import "./App.css";
-import SearchMovies from "./searchMovies";
+import SearchMovies from "./SearchMovies";
 
 export default function App() {
   return (
